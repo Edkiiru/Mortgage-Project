@@ -1,6 +1,6 @@
-# IPBC Mortgage Project
+# Captide Mortgage Project
 
-The **IPBC Mortgage Project** simulates a real-world data processing and reporting system for mortgage applications. It covers end-to-end development, including **ETL (Extract, Transform, Load)** processes, database design, data validation, error handling, and business intelligence reporting.
+The **Captide Mortgage Project** simulates a real-world data processing and reporting system for mortgage applications. It covers end-to-end development, including **ETL (Extract, Transform, Load)** processes, database design, data validation, error handling, and business intelligence reporting.
 
 ## Project Overview
 
