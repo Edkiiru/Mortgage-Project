@@ -21,10 +21,6 @@ This project is divided into multiple sprints and stories, with each section add
 ## Repository Structure
 
 ```plaintext
-├── docs/                    # Project documentation files
-├── src/                     # Source code for ETL and reporting tasks
-├── dashboards/              # Dashboard designs and configurations
-├── reports/                 # Generated reports
 └── README.md                # Project overview and instructions
 
 Project Sprints and Stories
